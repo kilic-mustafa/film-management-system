@@ -13,9 +13,11 @@ A comprehensive film management system designed to manage and organize films, ac
 Recommendation System: Get film recommendations based on genre and review data.
 - Search: Search for films and actors, and display them in alphabetical order.
 
-## Screenshots
+## Project Structure
 
 ![Ekran görüntüsü 2025-04-21 150332](https://github.com/user-attachments/assets/fb3ded53-1faa-4ac6-a06b-7b63b3330d88)
+
+## UML Class Diagram 
 
 ![Ekran görüntüsü 2025-04-21 151317](https://github.com/user-attachments/assets/4a0fba3b-88d6-46fb-afb5-331dc27b23f6)
 
