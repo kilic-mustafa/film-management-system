@@ -15,7 +15,9 @@ Recommendation System: Get film recommendations based on genre and review data.
 
 ## Screenshots
 
-![Ekran görüntüsü 2025-04-21 144528](https://github.com/user-attachments/assets/0ae986ec-99bc-469b-a5c8-0967dcf1c693)
+![Ekran görüntüsü 2025-04-21 150332](https://github.com/user-attachments/assets/fb3ded53-1faa-4ac6-a06b-7b63b3330d88)
+
+![Ekran görüntüsü 2025-04-21 151317](https://github.com/user-attachments/assets/4a0fba3b-88d6-46fb-afb5-331dc27b23f6)
 
 
 ## Installation
